@@ -1,4 +1,4 @@
-# Lesson 2.3: Project Intro and Brainstorming
+# Lesson 2.10: Project Intro and Brainstorming
 
 Welcome to our new project, **Websites for Change**! In this project, we're going to use our coding skills to make a real impact. Here's what we will cover:
 
